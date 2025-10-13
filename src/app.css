@@ -1,0 +1,15 @@
+@import 'tailwindcss';
+@plugin '@tailwindcss/forms';
+@plugin '@tailwindcss/typography';
+@font-face {
+  font-family: 'Cattus';
+  src: url('/fonts/Cattus.ttf') ;
+  font-weight: normal;
+  font-style: normal;
+};
+@font-face {
+  font-family: 'Miss';
+  src: url('/fonts/MissFajardose-Regular.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
