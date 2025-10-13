@@ -1,13 +1,4 @@
-# Allow all search engines to crawl the site
 User-agent: *
-
-# Allow everything
 Allow: /
 
-# Disallow sensitive or non-public routes (if any)
-Disallow: /api/
-Disallow: /admin/
-Disallow: /private/
-
-# Sitemap location
-Sitemap: https://yourdomain.com/sitemap.xml
+Sitemap: https://pkwoodenfurnitures.netlify.app/sitemap.xml
