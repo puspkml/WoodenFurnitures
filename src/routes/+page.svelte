@@ -35,29 +35,55 @@
     document.getElementById('why-choose-us').scrollIntoView({ behavior: 'smooth' });
   }
 </script>
-
 <svelte:head>
-  <title>Puspa Kamal Wooden Furnitures</title>
-  <meta name="description" content="At Puspa Kamal Wooden Furnitures, every piece we make carries a story — a story of skilled hands, timeless craftsmanship, and a deep love for wood. From shaping each curve to perfecting every finish, our artisans pour care, precision, and passion into every creation.
-
-Whether you’re drawn to elegant classics or unique custom designs, our furniture is built to last and made to fit your lifestyle beautifully. Each piece reflects the natural charm of real wood and the enduring artistry of local craftsmen.
-
-We also ensure your furniture reaches you safely and securely, with reliable delivery across Darjeeling, Mirik, Siliguri, and many other locations in the region.
-
-So whether you’re furnishing a cozy nook, a vibrant living space, or an entire home, let us help you create something meaningful — wooden furniture that feels personal, warm, and truly yours." />
-  <!-- Mobile/PWA Enhancements -->
+  <!-- Primary Meta Tags -->
+  <title>Puspa Kamal Wooden Furnitures | Handcrafted in Darjeeling & Mirik</title>
+  <meta name="description" content="Handcrafted wooden furniture by Puspa Kamal in Darjeeling & Mirik. Custom designs, solid wood tables, chairs, cabinets, with reliable delivery to Siliguri and nearby regions." />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
-  <meta name="theme-color" content="#8B4513" /> <!-- Professional wooden accent color -->
-  <!-- Open Graph for social sharing -->
-  <meta property="og:title" content="Puspa Kamal Wooden Furnitures" />
-  <meta property="og:description" content="Elegant, timeless wooden pieces crafted to perfection." />
-  <meta property="og:image" content="/cover.png" />
-  <meta property="og:url" content="https://yourdomain.com" />
-  <!-- Artistic Calligraphic Fonts from Google Fonts -->
+  <meta name="theme-color" content="#8B4513" />
+
+  <!-- Open Graph / Social Sharing -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Puspa Kamal Wooden Furnitures | Handcrafted in Darjeeling & Mirik" />
+  <meta property="og:description" content="Custom handcrafted wooden furniture, solid wood tables, chairs, and cabinets. Delivery available to Siliguri, Darjeeling, and surrounding areas." />
+  <meta property="og:image" content="https://pkwoodenfurnitures.netlify.app/cover.png" />
+  <meta property="og:url" content="https://pkwoodenfurnitures.netlify.app" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Puspa Kamal Wooden Furnitures | Handcrafted in Darjeeling & Mirik" />
+  <meta name="twitter:description" content="Custom handcrafted wooden furniture, solid wood tables, chairs, and cabinets. Delivery available to Siliguri, Darjeeling, and surrounding areas." />
+  <meta name="twitter:image" content="https://pkwoodenfurnitures.netlify.app/cover.png" />
+
+  <!-- Google Fonts / Beautiful Calligraphic Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Great+Vibes:wght@400&family=Dancing+Script:wght@400;700&family=Playfair+Display:ital,wght@0,400;0,700;1,400;1,700&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap" rel="stylesheet">
+
+  <!-- Structured Data for Local SEO -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FurnitureStore",
+    "name": "Puspa Kamal Wooden Furnitures",
+    "image": "https://pkwoodenfurnitures.netlify.app/cover.png",
+    "url": "https://pkwoodenfurnitures.netlify.app",
+    "telephone": "+91-8145838655",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Your Street, Mirik",
+      "addressLocality": "Mirik",
+      "addressRegion": "Darjeeling",
+      "postalCode": "734214",
+      "addressCountry": "IN"
+    },
+    "sameAs": [
+      "https://www.facebook.com/share/p/1A9c3wQtiD/"
+    ]
+  }
+  </script>
 </svelte:head>
+
 
 <style>
   /* Custom fade-in for subtle animations */
