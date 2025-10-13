@@ -38,7 +38,9 @@
 <svelte:head>
   <!-- Primary Meta Tags -->
   <title>Puspa Kamal Wooden Furnitures | Handcrafted in Darjeeling & Mirik</title>
-  <meta name="description" content="Handcrafted wooden furniture by Puspa Kamal in Darjeeling & Mirik. Custom designs, solid wood tables, chairs, cabinets, with reliable delivery to Siliguri and nearby regions." />
+  <meta name="description" content="Handcrafted wooden furniture by Puspa Kamal Wooden Furnitures, founded by Suraj Rai and Sarada Puri Rai, in Darjeeling & Mirik. Custom designs, solid wood tables, chairs, cabinets, with delivery to Siliguri and nearby regions." />
+
+  <meta property="og:description" content="Custom handcrafted wooden furniture by Suraj Rai and Sarada Puri Rai at Puspa Kamal Wooden Furnitures. Delivery to Darjeeling, Mirik, Siliguri." />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
   <meta name="theme-color" content="#8B4513" />
 
@@ -77,6 +79,16 @@
       "postalCode": "734214",
       "addressCountry": "IN"
     },
+    "founder": [
+      {
+        "@type": "Person",
+        "name": "Suraj Rai"
+      },
+      {
+        "@type": "Person",
+        "name": "Sarada Puri Rai"
+      }
+    ],
     "sameAs": [
       "https://www.facebook.com/share/p/1A9c3wQtiD/"
     ]

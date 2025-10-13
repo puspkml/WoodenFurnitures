@@ -5,993 +5,1290 @@ export const catalogData = {
   categories: {
   "bed": [
     {
-      "src": "/furnitures/bed/Furniture1.jpg",
-      "name": "Furniture1",
-      "alt": "Furniture1 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_1.jpg",
+      "name": "Furniture 1",
+      "alt": "Furniture 1 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture10.jpg",
-      "name": "Furniture10",
-      "alt": "Furniture10 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_10.jpg",
+      "name": "Furniture 10",
+      "alt": "Furniture 10 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture100.jpg",
-      "name": "Furniture100",
-      "alt": "Furniture100 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_100.jpeg",
+      "name": "Furniture 100",
+      "alt": "Furniture 100 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture101.jpg",
-      "name": "Furniture101",
-      "alt": "Furniture101 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_101.jpeg",
+      "name": "Furniture 101",
+      "alt": "Furniture 101 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture11.jpg",
-      "name": "Furniture11",
-      "alt": "Furniture11 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_102.jpg",
+      "name": "Furniture 102",
+      "alt": "Furniture 102 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture12.jpg",
-      "name": "Furniture12",
-      "alt": "Furniture12 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_103.jpg",
+      "name": "Furniture 103",
+      "alt": "Furniture 103 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture13.jpg",
-      "name": "Furniture13",
-      "alt": "Furniture13 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_104.jpg",
+      "name": "Furniture 104",
+      "alt": "Furniture 104 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture14.jpg",
-      "name": "Furniture14",
-      "alt": "Furniture14 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_105.jpg",
+      "name": "Furniture 105",
+      "alt": "Furniture 105 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture15.jpg",
-      "name": "Furniture15",
-      "alt": "Furniture15 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_106.jpg",
+      "name": "Furniture 106",
+      "alt": "Furniture 106 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture16.jpg",
-      "name": "Furniture16",
-      "alt": "Furniture16 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_107.jpg",
+      "name": "Furniture 107",
+      "alt": "Furniture 107 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture17.jpg",
-      "name": "Furniture17",
-      "alt": "Furniture17 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_108.jpg",
+      "name": "Furniture 108",
+      "alt": "Furniture 108 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture18.jpg",
-      "name": "Furniture18",
-      "alt": "Furniture18 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_109.jpg",
+      "name": "Furniture 109",
+      "alt": "Furniture 109 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture19.jpg",
-      "name": "Furniture19",
-      "alt": "Furniture19 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_11.jpg",
+      "name": "Furniture 11",
+      "alt": "Furniture 11 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture2.jpg",
-      "name": "Furniture2",
-      "alt": "Furniture2 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_110.jpg",
+      "name": "Furniture 110",
+      "alt": "Furniture 110 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture20.jpg",
-      "name": "Furniture20",
-      "alt": "Furniture20 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_111.jpg",
+      "name": "Furniture 111",
+      "alt": "Furniture 111 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture21.jpg",
-      "name": "Furniture21",
-      "alt": "Furniture21 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_12.jpg",
+      "name": "Furniture 12",
+      "alt": "Furniture 12 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture22.jpg",
-      "name": "Furniture22",
-      "alt": "Furniture22 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_13.jpg",
+      "name": "Furniture 13",
+      "alt": "Furniture 13 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture23.jpg",
-      "name": "Furniture23",
-      "alt": "Furniture23 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_14.jpg",
+      "name": "Furniture 14",
+      "alt": "Furniture 14 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture24.jpg",
-      "name": "Furniture24",
-      "alt": "Furniture24 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_15.jpg",
+      "name": "Furniture 15",
+      "alt": "Furniture 15 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture25.jpg",
-      "name": "Furniture25",
-      "alt": "Furniture25 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_16.jpg",
+      "name": "Furniture 16",
+      "alt": "Furniture 16 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture26.jpg",
-      "name": "Furniture26",
-      "alt": "Furniture26 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_17.jpg",
+      "name": "Furniture 17",
+      "alt": "Furniture 17 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture27.jpg",
-      "name": "Furniture27",
-      "alt": "Furniture27 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_18.jpg",
+      "name": "Furniture 18",
+      "alt": "Furniture 18 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture28.jpg",
-      "name": "Furniture28",
-      "alt": "Furniture28 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_19.jpg",
+      "name": "Furniture 19",
+      "alt": "Furniture 19 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture29.jpg",
-      "name": "Furniture29",
-      "alt": "Furniture29 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_2.jpg",
+      "name": "Furniture 2",
+      "alt": "Furniture 2 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture3.jpg",
-      "name": "Furniture3",
-      "alt": "Furniture3 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_20.jpg",
+      "name": "Furniture 20",
+      "alt": "Furniture 20 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture30.png",
-      "name": "Furniture30",
-      "alt": "Furniture30 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_21.jpg",
+      "name": "Furniture 21",
+      "alt": "Furniture 21 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture31.jpg",
-      "name": "Furniture31",
-      "alt": "Furniture31 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_22.jpg",
+      "name": "Furniture 22",
+      "alt": "Furniture 22 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture32.jpg",
-      "name": "Furniture32",
-      "alt": "Furniture32 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_23.jpg",
+      "name": "Furniture 23",
+      "alt": "Furniture 23 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture33.jpg",
-      "name": "Furniture33",
-      "alt": "Furniture33 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_24.jpg",
+      "name": "Furniture 24",
+      "alt": "Furniture 24 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture34.jpg",
-      "name": "Furniture34",
-      "alt": "Furniture34 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_25.jpg",
+      "name": "Furniture 25",
+      "alt": "Furniture 25 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture35.jpg",
-      "name": "Furniture35",
-      "alt": "Furniture35 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_26.png",
+      "name": "Furniture 26",
+      "alt": "Furniture 26 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture36.jpg",
-      "name": "Furniture36",
-      "alt": "Furniture36 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_27.jpg",
+      "name": "Furniture 27",
+      "alt": "Furniture 27 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture37.jpg",
-      "name": "Furniture37",
-      "alt": "Furniture37 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_28.jpg",
+      "name": "Furniture 28",
+      "alt": "Furniture 28 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture38.jpg",
-      "name": "Furniture38",
-      "alt": "Furniture38 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_29.jpg",
+      "name": "Furniture 29",
+      "alt": "Furniture 29 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture39.jpg",
-      "name": "Furniture39",
-      "alt": "Furniture39 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_3.jpg",
+      "name": "Furniture 3",
+      "alt": "Furniture 3 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture4.jpg",
-      "name": "Furniture4",
-      "alt": "Furniture4 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_30.jpg",
+      "name": "Furniture 30",
+      "alt": "Furniture 30 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture40.jpg",
-      "name": "Furniture40",
-      "alt": "Furniture40 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_31.jpg",
+      "name": "Furniture 31",
+      "alt": "Furniture 31 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture41.jpg",
-      "name": "Furniture41",
-      "alt": "Furniture41 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_32.jpg",
+      "name": "Furniture 32",
+      "alt": "Furniture 32 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture42.jpg",
-      "name": "Furniture42",
-      "alt": "Furniture42 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_33.jpg",
+      "name": "Furniture 33",
+      "alt": "Furniture 33 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture43.png",
-      "name": "Furniture43",
-      "alt": "Furniture43 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_34.jpg",
+      "name": "Furniture 34",
+      "alt": "Furniture 34 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture44.jpg",
-      "name": "Furniture44",
-      "alt": "Furniture44 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_35.jpg",
+      "name": "Furniture 35",
+      "alt": "Furniture 35 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture45.jpg",
-      "name": "Furniture45",
-      "alt": "Furniture45 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_36.jpg",
+      "name": "Furniture 36",
+      "alt": "Furniture 36 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture46.jpg",
-      "name": "Furniture46",
-      "alt": "Furniture46 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_37.jpg",
+      "name": "Furniture 37",
+      "alt": "Furniture 37 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture47.jpg",
-      "name": "Furniture47",
-      "alt": "Furniture47 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_38.jpg",
+      "name": "Furniture 38",
+      "alt": "Furniture 38 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture48.jpg",
-      "name": "Furniture48",
-      "alt": "Furniture48 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_39.jpg",
+      "name": "Furniture 39",
+      "alt": "Furniture 39 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture49.jpg",
-      "name": "Furniture49",
-      "alt": "Furniture49 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_4.jpg",
+      "name": "Furniture 4",
+      "alt": "Furniture 4 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture5.jpg",
-      "name": "Furniture5",
-      "alt": "Furniture5 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_40.png",
+      "name": "Furniture 40",
+      "alt": "Furniture 40 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture50.jpg",
-      "name": "Furniture50",
-      "alt": "Furniture50 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_41.jpg",
+      "name": "Furniture 41",
+      "alt": "Furniture 41 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture51.jpg",
-      "name": "Furniture51",
-      "alt": "Furniture51 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_42.jpg",
+      "name": "Furniture 42",
+      "alt": "Furniture 42 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture52.jpg",
-      "name": "Furniture52",
-      "alt": "Furniture52 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_43.jpg",
+      "name": "Furniture 43",
+      "alt": "Furniture 43 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture53.jpg",
-      "name": "Furniture53",
-      "alt": "Furniture53 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_44.jpg",
+      "name": "Furniture 44",
+      "alt": "Furniture 44 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture54.jpg",
-      "name": "Furniture54",
-      "alt": "Furniture54 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_45.jpg",
+      "name": "Furniture 45",
+      "alt": "Furniture 45 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture55.jpg",
-      "name": "Furniture55",
-      "alt": "Furniture55 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_46.jpg",
+      "name": "Furniture 46",
+      "alt": "Furniture 46 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture56.jpeg",
-      "name": "Furniture56",
-      "alt": "Furniture56 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_47.jpg",
+      "name": "Furniture 47",
+      "alt": "Furniture 47 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture57.jpg",
-      "name": "Furniture57",
-      "alt": "Furniture57 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_48.jpg",
+      "name": "Furniture 48",
+      "alt": "Furniture 48 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture58.jpg",
-      "name": "Furniture58",
-      "alt": "Furniture58 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_49.jpg",
+      "name": "Furniture 49",
+      "alt": "Furniture 49 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture59.jpg",
-      "name": "Furniture59",
-      "alt": "Furniture59 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_5.jpg",
+      "name": "Furniture 5",
+      "alt": "Furniture 5 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture6.jpg",
-      "name": "Furniture6",
-      "alt": "Furniture6 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_50.jpg",
+      "name": "Furniture 50",
+      "alt": "Furniture 50 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture60.jpg",
-      "name": "Furniture60",
-      "alt": "Furniture60 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_51.jpg",
+      "name": "Furniture 51",
+      "alt": "Furniture 51 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture61.jpg",
-      "name": "Furniture61",
-      "alt": "Furniture61 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_52.jpg",
+      "name": "Furniture 52",
+      "alt": "Furniture 52 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture62.jpg",
-      "name": "Furniture62",
-      "alt": "Furniture62 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_53.jpg",
+      "name": "Furniture 53",
+      "alt": "Furniture 53 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture63.jpg",
-      "name": "Furniture63",
-      "alt": "Furniture63 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_54.jpeg",
+      "name": "Furniture 54",
+      "alt": "Furniture 54 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture64.jpg",
-      "name": "Furniture64",
-      "alt": "Furniture64 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_55.jpg",
+      "name": "Furniture 55",
+      "alt": "Furniture 55 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture65.jpg",
-      "name": "Furniture65",
-      "alt": "Furniture65 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_56.jpg",
+      "name": "Furniture 56",
+      "alt": "Furniture 56 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture66.jpg",
-      "name": "Furniture66",
-      "alt": "Furniture66 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_57.jpg",
+      "name": "Furniture 57",
+      "alt": "Furniture 57 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture67.jpg",
-      "name": "Furniture67",
-      "alt": "Furniture67 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_58.jpg",
+      "name": "Furniture 58",
+      "alt": "Furniture 58 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture68.jpg",
-      "name": "Furniture68",
-      "alt": "Furniture68 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_59.jpg",
+      "name": "Furniture 59",
+      "alt": "Furniture 59 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture69.jpg",
-      "name": "Furniture69",
-      "alt": "Furniture69 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_6.jpg",
+      "name": "Furniture 6",
+      "alt": "Furniture 6 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture7.jpg",
-      "name": "Furniture7",
-      "alt": "Furniture7 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_60.jpg",
+      "name": "Furniture 60",
+      "alt": "Furniture 60 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture70.jpg",
-      "name": "Furniture70",
-      "alt": "Furniture70 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_61.jpg",
+      "name": "Furniture 61",
+      "alt": "Furniture 61 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture71.jpg",
-      "name": "Furniture71",
-      "alt": "Furniture71 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_62.jpg",
+      "name": "Furniture 62",
+      "alt": "Furniture 62 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture72.jpg",
-      "name": "Furniture72",
-      "alt": "Furniture72 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_63.jpg",
+      "name": "Furniture 63",
+      "alt": "Furniture 63 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture73.jpg",
-      "name": "Furniture73",
-      "alt": "Furniture73 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_64.jpg",
+      "name": "Furniture 64",
+      "alt": "Furniture 64 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture74.jpeg",
-      "name": "Furniture74",
-      "alt": "Furniture74 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_65.jpg",
+      "name": "Furniture 65",
+      "alt": "Furniture 65 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture75.jpg",
-      "name": "Furniture75",
-      "alt": "Furniture75 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_66.jpg",
+      "name": "Furniture 66",
+      "alt": "Furniture 66 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture76.jpg",
-      "name": "Furniture76",
-      "alt": "Furniture76 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_67.jpg",
+      "name": "Furniture 67",
+      "alt": "Furniture 67 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture77.jpg",
-      "name": "Furniture77",
-      "alt": "Furniture77 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_68.jpg",
+      "name": "Furniture 68",
+      "alt": "Furniture 68 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture78.jpg",
-      "name": "Furniture78",
-      "alt": "Furniture78 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_69.jpg",
+      "name": "Furniture 69",
+      "alt": "Furniture 69 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture79.jpg",
-      "name": "Furniture79",
-      "alt": "Furniture79 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_7.jpg",
+      "name": "Furniture 7",
+      "alt": "Furniture 7 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture8.jpg",
-      "name": "Furniture8",
-      "alt": "Furniture8 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_70.jpg",
+      "name": "Furniture 70",
+      "alt": "Furniture 70 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture80.jpg",
-      "name": "Furniture80",
-      "alt": "Furniture80 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_71.jpg",
+      "name": "Furniture 71",
+      "alt": "Furniture 71 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture81.jpg",
-      "name": "Furniture81",
-      "alt": "Furniture81 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_72.jpg",
+      "name": "Furniture 72",
+      "alt": "Furniture 72 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture82.jpg",
-      "name": "Furniture82",
-      "alt": "Furniture82 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_73.jpg",
+      "name": "Furniture 73",
+      "alt": "Furniture 73 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture83.png",
-      "name": "Furniture83",
-      "alt": "Furniture83 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_74.jpeg",
+      "name": "Furniture 74",
+      "alt": "Furniture 74 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture84.jpg",
-      "name": "Furniture84",
-      "alt": "Furniture84 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_75.jpg",
+      "name": "Furniture 75",
+      "alt": "Furniture 75 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture85.jpg",
-      "name": "Furniture85",
-      "alt": "Furniture85 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_76.jpg",
+      "name": "Furniture 76",
+      "alt": "Furniture 76 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture86.webp",
-      "name": "Furniture86",
-      "alt": "Furniture86 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_77.jpg",
+      "name": "Furniture 77",
+      "alt": "Furniture 77 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture87.gif",
-      "name": "Furniture87",
-      "alt": "Furniture87 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_78.jpg",
+      "name": "Furniture 78",
+      "alt": "Furniture 78 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture88.jpg",
-      "name": "Furniture88",
-      "alt": "Furniture88 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_79.jpg",
+      "name": "Furniture 79",
+      "alt": "Furniture 79 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture89.jpg",
-      "name": "Furniture89",
-      "alt": "Furniture89 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_8.jpg",
+      "name": "Furniture 8",
+      "alt": "Furniture 8 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture9.jpg",
-      "name": "Furniture9",
-      "alt": "Furniture9 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_80.jpg",
+      "name": "Furniture 80",
+      "alt": "Furniture 80 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture90.jpg",
-      "name": "Furniture90",
-      "alt": "Furniture90 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_81.jpg",
+      "name": "Furniture 81",
+      "alt": "Furniture 81 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture91.jpg",
-      "name": "Furniture91",
-      "alt": "Furniture91 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_82.jpg",
+      "name": "Furniture 82",
+      "alt": "Furniture 82 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture92.jpg",
-      "name": "Furniture92",
-      "alt": "Furniture92 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_83.jpg",
+      "name": "Furniture 83",
+      "alt": "Furniture 83 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture93.jpg",
-      "name": "Furniture93",
-      "alt": "Furniture93 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_84.png",
+      "name": "Furniture 84",
+      "alt": "Furniture 84 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture94.jpg",
-      "name": "Furniture94",
-      "alt": "Furniture94 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_85.jpg",
+      "name": "Furniture 85",
+      "alt": "Furniture 85 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture95.jpg",
-      "name": "Furniture95",
-      "alt": "Furniture95 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_86.jpg",
+      "name": "Furniture 86",
+      "alt": "Furniture 86 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture96.jpeg",
-      "name": "Furniture96",
-      "alt": "Furniture96 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_87.webp",
+      "name": "Furniture 87",
+      "alt": "Furniture 87 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture97.jpeg",
-      "name": "Furniture97",
-      "alt": "Furniture97 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_88.gif",
+      "name": "Furniture 88",
+      "alt": "Furniture 88 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture98.jpeg",
-      "name": "Furniture98",
-      "alt": "Furniture98 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_89.jpg",
+      "name": "Furniture 89",
+      "alt": "Furniture 89 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/bed/Furniture99.jpeg",
-      "name": "Furniture99",
-      "alt": "Furniture99 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/bed/Furniture_9.jpg",
+      "name": "Furniture 9",
+      "alt": "Furniture 9 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/bed/Furniture_90.jpg",
+      "name": "Furniture 90",
+      "alt": "Furniture 90 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/bed/Furniture_91.jpg",
+      "name": "Furniture 91",
+      "alt": "Furniture 91 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/bed/Furniture_92.jpg",
+      "name": "Furniture 92",
+      "alt": "Furniture 92 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/bed/Furniture_93.jpg",
+      "name": "Furniture 93",
+      "alt": "Furniture 93 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/bed/Furniture_94.jpg",
+      "name": "Furniture 94",
+      "alt": "Furniture 94 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/bed/Furniture_95.jpg",
+      "name": "Furniture 95",
+      "alt": "Furniture 95 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/bed/Furniture_96.jpg",
+      "name": "Furniture 96",
+      "alt": "Furniture 96 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/bed/Furniture_97.jpg",
+      "name": "Furniture 97",
+      "alt": "Furniture 97 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/bed/Furniture_98.jpeg",
+      "name": "Furniture 98",
+      "alt": "Furniture 98 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/bed/Furniture_99.jpeg",
+      "name": "Furniture 99",
+      "alt": "Furniture 99 - Wooden furniture from Puspa Kamal"
     }
   ],
   "Celing & skirting": [
     {
-      "src": "/furnitures/Celing & skirting/Furniture1.jpeg",
-      "name": "Furniture1",
-      "alt": "Furniture1 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Celing & skirting/Furniture_1.jpeg",
+      "name": "Furniture 1",
+      "alt": "Furniture 1 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/Celing & skirting/Furniture10.jpg",
-      "name": "Furniture10",
-      "alt": "Furniture10 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Celing & skirting/Furniture_10.jpg",
+      "name": "Furniture 10",
+      "alt": "Furniture 10 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/Celing & skirting/Furniture2.jpeg",
-      "name": "Furniture2",
-      "alt": "Furniture2 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Celing & skirting/Furniture_11.jpg",
+      "name": "Furniture 11",
+      "alt": "Furniture 11 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/Celing & skirting/Furniture3.jpeg",
-      "name": "Furniture3",
-      "alt": "Furniture3 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Celing & skirting/Furniture_12.jpg",
+      "name": "Furniture 12",
+      "alt": "Furniture 12 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/Celing & skirting/Furniture4.jpeg",
-      "name": "Furniture4",
-      "alt": "Furniture4 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Celing & skirting/Furniture_13.jpg",
+      "name": "Furniture 13",
+      "alt": "Furniture 13 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/Celing & skirting/Furniture5.jpeg",
-      "name": "Furniture5",
-      "alt": "Furniture5 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Celing & skirting/Furniture_14.jpg",
+      "name": "Furniture 14",
+      "alt": "Furniture 14 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/Celing & skirting/Furniture6.jpeg",
-      "name": "Furniture6",
-      "alt": "Furniture6 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Celing & skirting/Furniture_2.jpg",
+      "name": "Furniture 2",
+      "alt": "Furniture 2 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/Celing & skirting/Furniture7.jpeg",
-      "name": "Furniture7",
-      "alt": "Furniture7 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Celing & skirting/Furniture_3.jpeg",
+      "name": "Furniture 3",
+      "alt": "Furniture 3 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/Celing & skirting/Furniture8.jpg",
-      "name": "Furniture8",
-      "alt": "Furniture8 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Celing & skirting/Furniture_4.jpeg",
+      "name": "Furniture 4",
+      "alt": "Furniture 4 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/Celing & skirting/Furniture9.jpg",
-      "name": "Furniture9",
-      "alt": "Furniture9 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Celing & skirting/Furniture_5.jpeg",
+      "name": "Furniture 5",
+      "alt": "Furniture 5 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Celing & skirting/Furniture_6.jpeg",
+      "name": "Furniture 6",
+      "alt": "Furniture 6 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Celing & skirting/Furniture_7.jpeg",
+      "name": "Furniture 7",
+      "alt": "Furniture 7 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Celing & skirting/Furniture_8.jpeg",
+      "name": "Furniture 8",
+      "alt": "Furniture 8 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Celing & skirting/Furniture_9.jpg",
+      "name": "Furniture 9",
+      "alt": "Furniture 9 - Wooden furniture from Puspa Kamal"
     }
   ],
   "Dining": [
     {
-      "src": "/furnitures/Dining/Furniture1.jpeg",
-      "name": "Furniture1",
-      "alt": "Furniture1 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Dining/Furniture_1.jpeg",
+      "name": "Furniture 1",
+      "alt": "Furniture 1 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/Dining/Furniture10.jpeg",
-      "name": "Furniture10",
-      "alt": "Furniture10 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Dining/Furniture_10.jpeg",
+      "name": "Furniture 10",
+      "alt": "Furniture 10 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/Dining/Furniture11.jpg",
-      "name": "Furniture11",
-      "alt": "Furniture11 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Dining/Furniture_11.jpeg",
+      "name": "Furniture 11",
+      "alt": "Furniture 11 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/Dining/Furniture12.jpg",
-      "name": "Furniture12",
-      "alt": "Furniture12 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Dining/Furniture_12.jpeg",
+      "name": "Furniture 12",
+      "alt": "Furniture 12 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/Dining/Furniture13.jpeg",
-      "name": "Furniture13",
-      "alt": "Furniture13 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Dining/Furniture_13.jpeg",
+      "name": "Furniture 13",
+      "alt": "Furniture 13 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/Dining/Furniture14.jpeg",
-      "name": "Furniture14",
-      "alt": "Furniture14 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Dining/Furniture_14.jpeg",
+      "name": "Furniture 14",
+      "alt": "Furniture 14 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/Dining/Furniture2.jpeg",
-      "name": "Furniture2",
-      "alt": "Furniture2 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Dining/Furniture_15.jpg",
+      "name": "Furniture 15",
+      "alt": "Furniture 15 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/Dining/Furniture3.jpeg",
-      "name": "Furniture3",
-      "alt": "Furniture3 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Dining/Furniture_16.jpg",
+      "name": "Furniture 16",
+      "alt": "Furniture 16 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/Dining/Furniture4.jpeg",
-      "name": "Furniture4",
-      "alt": "Furniture4 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Dining/Furniture_17.jpg",
+      "name": "Furniture 17",
+      "alt": "Furniture 17 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/Dining/Furniture5.jpeg",
-      "name": "Furniture5",
-      "alt": "Furniture5 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Dining/Furniture_18.jpg",
+      "name": "Furniture 18",
+      "alt": "Furniture 18 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/Dining/Furniture6.jpeg",
-      "name": "Furniture6",
-      "alt": "Furniture6 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Dining/Furniture_19.jpg",
+      "name": "Furniture 19",
+      "alt": "Furniture 19 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/Dining/Furniture7.jpeg",
-      "name": "Furniture7",
-      "alt": "Furniture7 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Dining/Furniture_2.jpeg",
+      "name": "Furniture 2",
+      "alt": "Furniture 2 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/Dining/Furniture8.jpeg",
-      "name": "Furniture8",
-      "alt": "Furniture8 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Dining/Furniture_20.jpg",
+      "name": "Furniture 20",
+      "alt": "Furniture 20 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/Dining/Furniture9.jpeg",
-      "name": "Furniture9",
-      "alt": "Furniture9 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Dining/Furniture_21.jpg",
+      "name": "Furniture 21",
+      "alt": "Furniture 21 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Dining/Furniture_22.jpg",
+      "name": "Furniture 22",
+      "alt": "Furniture 22 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Dining/Furniture_23.jpg",
+      "name": "Furniture 23",
+      "alt": "Furniture 23 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Dining/Furniture_24.jpg",
+      "name": "Furniture 24",
+      "alt": "Furniture 24 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Dining/Furniture_25.png",
+      "name": "Furniture 25",
+      "alt": "Furniture 25 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Dining/Furniture_26.png",
+      "name": "Furniture 26",
+      "alt": "Furniture 26 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Dining/Furniture_27.jpg",
+      "name": "Furniture 27",
+      "alt": "Furniture 27 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Dining/Furniture_28.jpg",
+      "name": "Furniture 28",
+      "alt": "Furniture 28 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Dining/Furniture_29.jpg",
+      "name": "Furniture 29",
+      "alt": "Furniture 29 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Dining/Furniture_3.jpg",
+      "name": "Furniture 3",
+      "alt": "Furniture 3 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Dining/Furniture_30.jpg",
+      "name": "Furniture 30",
+      "alt": "Furniture 30 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Dining/Furniture_31.jpg",
+      "name": "Furniture 31",
+      "alt": "Furniture 31 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Dining/Furniture_32.jpg",
+      "name": "Furniture 32",
+      "alt": "Furniture 32 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Dining/Furniture_33.jpg",
+      "name": "Furniture 33",
+      "alt": "Furniture 33 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Dining/Furniture_4.jpg",
+      "name": "Furniture 4",
+      "alt": "Furniture 4 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Dining/Furniture_5.jpeg",
+      "name": "Furniture 5",
+      "alt": "Furniture 5 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Dining/Furniture_6.jpeg",
+      "name": "Furniture 6",
+      "alt": "Furniture 6 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Dining/Furniture_7.jpeg",
+      "name": "Furniture 7",
+      "alt": "Furniture 7 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Dining/Furniture_8.jpeg",
+      "name": "Furniture 8",
+      "alt": "Furniture 8 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Dining/Furniture_9.jpeg",
+      "name": "Furniture 9",
+      "alt": "Furniture 9 - Wooden furniture from Puspa Kamal"
     }
   ],
   "Door": [
     {
-      "src": "/furnitures/Door/Furniture1.jpeg",
-      "name": "Furniture1",
-      "alt": "Furniture1 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Door/Furniture_1.jpeg",
+      "name": "Furniture 1",
+      "alt": "Furniture 1 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/Door/Furniture10.jpg",
-      "name": "Furniture10",
-      "alt": "Furniture10 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Door/Furniture_10.jpeg",
+      "name": "Furniture 10",
+      "alt": "Furniture 10 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/Door/Furniture11.jpg",
-      "name": "Furniture11",
-      "alt": "Furniture11 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Door/Furniture_11.jpeg",
+      "name": "Furniture 11",
+      "alt": "Furniture 11 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/Door/Furniture12.jpg",
-      "name": "Furniture12",
-      "alt": "Furniture12 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Door/Furniture_12.jpeg",
+      "name": "Furniture 12",
+      "alt": "Furniture 12 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/Door/Furniture13.jpg",
-      "name": "Furniture13",
-      "alt": "Furniture13 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Door/Furniture_13.jpeg",
+      "name": "Furniture 13",
+      "alt": "Furniture 13 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/Door/Furniture14.jpeg",
-      "name": "Furniture14",
-      "alt": "Furniture14 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Door/Furniture_14.jpg",
+      "name": "Furniture 14",
+      "alt": "Furniture 14 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/Door/Furniture2.jpeg",
-      "name": "Furniture2",
-      "alt": "Furniture2 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Door/Furniture_15.jpg",
+      "name": "Furniture 15",
+      "alt": "Furniture 15 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/Door/Furniture3.jpeg",
-      "name": "Furniture3",
-      "alt": "Furniture3 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Door/Furniture_2.jpg",
+      "name": "Furniture 2",
+      "alt": "Furniture 2 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/Door/Furniture4.jpeg",
-      "name": "Furniture4",
-      "alt": "Furniture4 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Door/Furniture_3.jpg",
+      "name": "Furniture 3",
+      "alt": "Furniture 3 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/Door/Furniture5.jpeg",
-      "name": "Furniture5",
-      "alt": "Furniture5 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Door/Furniture_4.jpg",
+      "name": "Furniture 4",
+      "alt": "Furniture 4 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/Door/Furniture6.jpeg",
-      "name": "Furniture6",
-      "alt": "Furniture6 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Door/Furniture_5.jpg",
+      "name": "Furniture 5",
+      "alt": "Furniture 5 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/Door/Furniture7.jpeg",
-      "name": "Furniture7",
-      "alt": "Furniture7 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Door/Furniture_6.jpeg",
+      "name": "Furniture 6",
+      "alt": "Furniture 6 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/Door/Furniture8.jpeg",
-      "name": "Furniture8",
-      "alt": "Furniture8 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Door/Furniture_7.jpeg",
+      "name": "Furniture 7",
+      "alt": "Furniture 7 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/Door/Furniture9.jpg",
-      "name": "Furniture9",
-      "alt": "Furniture9 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Door/Furniture_8.jpeg",
+      "name": "Furniture 8",
+      "alt": "Furniture 8 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Door/Furniture_9.jpeg",
+      "name": "Furniture 9",
+      "alt": "Furniture 9 - Wooden furniture from Puspa Kamal"
+    }
+  ],
+  "Others": [
+    {
+      "src": "/furnitures/Others/Furniture_1.jpg",
+      "name": "Furniture 1",
+      "alt": "Furniture 1 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Others/Furniture_2.jpg",
+      "name": "Furniture 2",
+      "alt": "Furniture 2 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Others/Furniture_3.jpg",
+      "name": "Furniture 3",
+      "alt": "Furniture 3 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Others/Furniture_4.jpg",
+      "name": "Furniture 4",
+      "alt": "Furniture 4 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Others/Furniture_5.jpg",
+      "name": "Furniture 5",
+      "alt": "Furniture 5 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Others/Furniture_6.jpg",
+      "name": "Furniture 6",
+      "alt": "Furniture 6 - Wooden furniture from Puspa Kamal"
     }
   ],
   "sofa": [
     {
-      "src": "/furnitures/sofa/Furniture1.jpg",
-      "name": "Furniture1",
-      "alt": "Furniture1 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_1.jpg",
+      "name": "Furniture 1",
+      "alt": "Furniture 1 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture10.jpg",
-      "name": "Furniture10",
-      "alt": "Furniture10 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_10.png",
+      "name": "Furniture 10",
+      "alt": "Furniture 10 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture11.jpg",
-      "name": "Furniture11",
-      "alt": "Furniture11 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_11.png",
+      "name": "Furniture 11",
+      "alt": "Furniture 11 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture12.jpg",
-      "name": "Furniture12",
-      "alt": "Furniture12 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_12.jpg",
+      "name": "Furniture 12",
+      "alt": "Furniture 12 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture13.jpg",
-      "name": "Furniture13",
-      "alt": "Furniture13 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_13.jpg",
+      "name": "Furniture 13",
+      "alt": "Furniture 13 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture14.jpg",
-      "name": "Furniture14",
-      "alt": "Furniture14 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_14.jpg",
+      "name": "Furniture 14",
+      "alt": "Furniture 14 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture15.jpg",
-      "name": "Furniture15",
-      "alt": "Furniture15 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_15.jpg",
+      "name": "Furniture 15",
+      "alt": "Furniture 15 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture16.jpg",
-      "name": "Furniture16",
-      "alt": "Furniture16 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_16.jpg",
+      "name": "Furniture 16",
+      "alt": "Furniture 16 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture17.png",
-      "name": "Furniture17",
-      "alt": "Furniture17 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_17.jpg",
+      "name": "Furniture 17",
+      "alt": "Furniture 17 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture18.png",
-      "name": "Furniture18",
-      "alt": "Furniture18 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_18.jpg",
+      "name": "Furniture 18",
+      "alt": "Furniture 18 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture19.png",
-      "name": "Furniture19",
-      "alt": "Furniture19 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_19.jpg",
+      "name": "Furniture 19",
+      "alt": "Furniture 19 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture2.jpg",
-      "name": "Furniture2",
-      "alt": "Furniture2 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_2.jpg",
+      "name": "Furniture 2",
+      "alt": "Furniture 2 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture20.jpg",
-      "name": "Furniture20",
-      "alt": "Furniture20 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_20.jpg",
+      "name": "Furniture 20",
+      "alt": "Furniture 20 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture21.jpg",
-      "name": "Furniture21",
-      "alt": "Furniture21 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_21.jpg",
+      "name": "Furniture 21",
+      "alt": "Furniture 21 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture22.jpg",
-      "name": "Furniture22",
-      "alt": "Furniture22 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_22.jpg",
+      "name": "Furniture 22",
+      "alt": "Furniture 22 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture23.jpg",
-      "name": "Furniture23",
-      "alt": "Furniture23 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_23.jpg",
+      "name": "Furniture 23",
+      "alt": "Furniture 23 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture24.jpg",
-      "name": "Furniture24",
-      "alt": "Furniture24 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_24.jpeg",
+      "name": "Furniture 24",
+      "alt": "Furniture 24 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture25.jpg",
-      "name": "Furniture25",
-      "alt": "Furniture25 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_25.jpg",
+      "name": "Furniture 25",
+      "alt": "Furniture 25 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture26.jpg",
-      "name": "Furniture26",
-      "alt": "Furniture26 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_26.jpg",
+      "name": "Furniture 26",
+      "alt": "Furniture 26 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture27.jpg",
-      "name": "Furniture27",
-      "alt": "Furniture27 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_27.jpg",
+      "name": "Furniture 27",
+      "alt": "Furniture 27 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture28.jpg",
-      "name": "Furniture28",
-      "alt": "Furniture28 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_28.jpg",
+      "name": "Furniture 28",
+      "alt": "Furniture 28 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture29.jpg",
-      "name": "Furniture29",
-      "alt": "Furniture29 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_29.jpg",
+      "name": "Furniture 29",
+      "alt": "Furniture 29 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture3.jpg",
-      "name": "Furniture3",
-      "alt": "Furniture3 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_3.jpg",
+      "name": "Furniture 3",
+      "alt": "Furniture 3 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture30.jpeg",
-      "name": "Furniture30",
-      "alt": "Furniture30 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_30.jpg",
+      "name": "Furniture 30",
+      "alt": "Furniture 30 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture31.jpg",
-      "name": "Furniture31",
-      "alt": "Furniture31 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_31.webp",
+      "name": "Furniture 31",
+      "alt": "Furniture 31 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture32.jpg",
-      "name": "Furniture32",
-      "alt": "Furniture32 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_32.jpeg",
+      "name": "Furniture 32",
+      "alt": "Furniture 32 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture33.jpg",
-      "name": "Furniture33",
-      "alt": "Furniture33 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_33.jpg",
+      "name": "Furniture 33",
+      "alt": "Furniture 33 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture34.jpg",
-      "name": "Furniture34",
-      "alt": "Furniture34 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_34.jpeg",
+      "name": "Furniture 34",
+      "alt": "Furniture 34 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture35.jpg",
-      "name": "Furniture35",
-      "alt": "Furniture35 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_35.jpg",
+      "name": "Furniture 35",
+      "alt": "Furniture 35 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture36.jpg",
-      "name": "Furniture36",
-      "alt": "Furniture36 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_36.jpeg",
+      "name": "Furniture 36",
+      "alt": "Furniture 36 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture37.webp",
-      "name": "Furniture37",
-      "alt": "Furniture37 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_37.jpg",
+      "name": "Furniture 37",
+      "alt": "Furniture 37 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture38.jpeg",
-      "name": "Furniture38",
-      "alt": "Furniture38 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_38.jpg",
+      "name": "Furniture 38",
+      "alt": "Furniture 38 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture39.jpg",
-      "name": "Furniture39",
-      "alt": "Furniture39 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_39.jpeg",
+      "name": "Furniture 39",
+      "alt": "Furniture 39 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture4.jpeg",
-      "name": "Furniture4",
-      "alt": "Furniture4 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_4.jpg",
+      "name": "Furniture 4",
+      "alt": "Furniture 4 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture40.jpg",
-      "name": "Furniture40",
-      "alt": "Furniture40 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_40.jpg",
+      "name": "Furniture 40",
+      "alt": "Furniture 40 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture41.jpeg",
-      "name": "Furniture41",
-      "alt": "Furniture41 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_41.jpg",
+      "name": "Furniture 41",
+      "alt": "Furniture 41 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture42.jpg",
-      "name": "Furniture42",
-      "alt": "Furniture42 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_42.jpg",
+      "name": "Furniture 42",
+      "alt": "Furniture 42 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture43.jpg",
-      "name": "Furniture43",
-      "alt": "Furniture43 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_43.jpg",
+      "name": "Furniture 43",
+      "alt": "Furniture 43 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture44.jpeg",
-      "name": "Furniture44",
-      "alt": "Furniture44 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_44.jpg",
+      "name": "Furniture 44",
+      "alt": "Furniture 44 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture45.jpg",
-      "name": "Furniture45",
-      "alt": "Furniture45 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_45.jpg",
+      "name": "Furniture 45",
+      "alt": "Furniture 45 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture46.jpg",
-      "name": "Furniture46",
-      "alt": "Furniture46 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_46.jpg",
+      "name": "Furniture 46",
+      "alt": "Furniture 46 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture47.jpg",
-      "name": "Furniture47",
-      "alt": "Furniture47 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_47.png",
+      "name": "Furniture 47",
+      "alt": "Furniture 47 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture48.jpg",
-      "name": "Furniture48",
-      "alt": "Furniture48 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_48.jpg",
+      "name": "Furniture 48",
+      "alt": "Furniture 48 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture49.jpg",
-      "name": "Furniture49",
-      "alt": "Furniture49 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_49.jpg",
+      "name": "Furniture 49",
+      "alt": "Furniture 49 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture5.jpg",
-      "name": "Furniture5",
-      "alt": "Furniture5 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_5.jpg",
+      "name": "Furniture 5",
+      "alt": "Furniture 5 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture6.jpg",
-      "name": "Furniture6",
-      "alt": "Furniture6 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_50.jpg",
+      "name": "Furniture 50",
+      "alt": "Furniture 50 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture7.png",
-      "name": "Furniture7",
-      "alt": "Furniture7 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_51.jpg",
+      "name": "Furniture 51",
+      "alt": "Furniture 51 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture8.jpg",
-      "name": "Furniture8",
-      "alt": "Furniture8 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_52.jpg",
+      "name": "Furniture 52",
+      "alt": "Furniture 52 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/sofa/Furniture9.jpg",
-      "name": "Furniture9",
-      "alt": "Furniture9 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/sofa/Furniture_53.jpg",
+      "name": "Furniture 53",
+      "alt": "Furniture 53 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/sofa/Furniture_6.jpg",
+      "name": "Furniture 6",
+      "alt": "Furniture 6 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/sofa/Furniture_7.jpg",
+      "name": "Furniture 7",
+      "alt": "Furniture 7 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/sofa/Furniture_8.jpg",
+      "name": "Furniture 8",
+      "alt": "Furniture 8 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/sofa/Furniture_9.png",
+      "name": "Furniture 9",
+      "alt": "Furniture 9 - Wooden furniture from Puspa Kamal"
     }
   ],
   "Tables and cabinets": [
     {
-      "src": "/furnitures/Tables and cabinets/Furniture1.jpeg",
-      "name": "Furniture1",
-      "alt": "Furniture1 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Tables and cabinets/Furniture_1.jpg",
+      "name": "Furniture 1",
+      "alt": "Furniture 1 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/Tables and cabinets/Furniture2.jpg",
-      "name": "Furniture2",
-      "alt": "Furniture2 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Tables and cabinets/Furniture_10.jpg",
+      "name": "Furniture 10",
+      "alt": "Furniture 10 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/Tables and cabinets/Furniture3.jpg",
-      "name": "Furniture3",
-      "alt": "Furniture3 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Tables and cabinets/Furniture_11.jpg",
+      "name": "Furniture 11",
+      "alt": "Furniture 11 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/Tables and cabinets/Furniture4.jpg",
-      "name": "Furniture4",
-      "alt": "Furniture4 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Tables and cabinets/Furniture_12.jpg",
+      "name": "Furniture 12",
+      "alt": "Furniture 12 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/Tables and cabinets/Furniture5.jpg",
-      "name": "Furniture5",
-      "alt": "Furniture5 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Tables and cabinets/Furniture_13.jpg",
+      "name": "Furniture 13",
+      "alt": "Furniture 13 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/Tables and cabinets/Furniture6.jpeg",
-      "name": "Furniture6",
-      "alt": "Furniture6 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Tables and cabinets/Furniture_14.jpg",
+      "name": "Furniture 14",
+      "alt": "Furniture 14 - Wooden furniture from Puspa Kamal"
     },
     {
-      "src": "/furnitures/Tables and cabinets/Furniture7.jpeg",
-      "name": "Furniture7",
-      "alt": "Furniture7 - Wooden furniture from Puspa Kamal"
+      "src": "/furnitures/Tables and cabinets/Furniture_15.jpg",
+      "name": "Furniture 15",
+      "alt": "Furniture 15 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Tables and cabinets/Furniture_16.jpg",
+      "name": "Furniture 16",
+      "alt": "Furniture 16 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Tables and cabinets/Furniture_17.png",
+      "name": "Furniture 17",
+      "alt": "Furniture 17 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Tables and cabinets/Furniture_18.png",
+      "name": "Furniture 18",
+      "alt": "Furniture 18 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Tables and cabinets/Furniture_19.png",
+      "name": "Furniture 19",
+      "alt": "Furniture 19 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Tables and cabinets/Furniture_2.jpeg",
+      "name": "Furniture 2",
+      "alt": "Furniture 2 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Tables and cabinets/Furniture_20.jpg",
+      "name": "Furniture 20",
+      "alt": "Furniture 20 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Tables and cabinets/Furniture_21.jpg",
+      "name": "Furniture 21",
+      "alt": "Furniture 21 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Tables and cabinets/Furniture_22.jpg",
+      "name": "Furniture 22",
+      "alt": "Furniture 22 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Tables and cabinets/Furniture_3.jpg",
+      "name": "Furniture 3",
+      "alt": "Furniture 3 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Tables and cabinets/Furniture_4.jpg",
+      "name": "Furniture 4",
+      "alt": "Furniture 4 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Tables and cabinets/Furniture_5.jpg",
+      "name": "Furniture 5",
+      "alt": "Furniture 5 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Tables and cabinets/Furniture_6.jpg",
+      "name": "Furniture 6",
+      "alt": "Furniture 6 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Tables and cabinets/Furniture_7.jpeg",
+      "name": "Furniture 7",
+      "alt": "Furniture 7 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Tables and cabinets/Furniture_8.jpeg",
+      "name": "Furniture 8",
+      "alt": "Furniture 8 - Wooden furniture from Puspa Kamal"
+    },
+    {
+      "src": "/furnitures/Tables and cabinets/Furniture_9.jpg",
+      "name": "Furniture 9",
+      "alt": "Furniture 9 - Wooden furniture from Puspa Kamal"
     }
   ]
 }
 };
 
-export const totalImages = 195;
-export const totalCategories = 6;
+export const totalImages = 254;
+export const totalCategories = 7;
