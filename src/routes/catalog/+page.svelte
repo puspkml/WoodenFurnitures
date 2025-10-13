@@ -135,12 +135,7 @@
 <div class="py-6 sm:py-8 px-4 max-w-7xl mx-auto">
   <!-- Search Bar -->
   <div class="mb-6 sm:mb-8 text-center">
-    <input
-      type="text"
-      bind:value={searchQuery}
-      placeholder="Search for sofas, beds, tables, or styles..."
-      class="w-full max-w-md px-4 sm:px-6 py-3 sm:py-4 rounded-full border-2 border-gray-200 focus:border-accent focus:outline-none text-base sm:text-lg font-sans bg-white shadow-lg transition-all duration-300"
-    />
+    
   </div>
 
   <!-- Category Tabs (All first, then categories) -->
